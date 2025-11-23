@@ -15,15 +15,8 @@ High Costs: Traditional legal research tools cost $100-400/user/month
 ## 💡 Solution
 An intelligent agentic AI system that orchestrates three specialized tools to deliver comprehensive legal analysis:
 Architecture Overview
-Input Legal Case
-       ↓
-   ┌───┴───┬────────────┬─────────────┐
-   ↓       ↓            ↓             ↓
-RAG      Tavily     Loophole      Combined
-Search   Search    Analysis       Analysis
-   ↓       ↓            ↓             ↓
-   └───┬───┴────────────┴─────────────┘
-       ↓
+<img width="649" height="342" alt="image" src="https://github.com/user-attachments/assets/8ea9e343-e0d1-47b0-ac05-66798876ef3b" />
+
        
 DeepEval Metrics
   (Tool Correctness | Task Completion | Answer Relevancy)

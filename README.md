@@ -1,5 +1,6 @@
 # legal-ai-agent
 An AI-powered agentic system that provides comprehensive legal case analysis through RAG (Retrieval-Augmented Generation), real-time web search, and automated loophole detection with performance evaluation metrics.
+
 [Live-Demo](https://claude.ai/public/artifacts/d0e20ee5-ddc7-4ff4-b37e-c6fb5d54dcab)
 
 [Watch-Video-Demo ](https://drive.google.com/file/d/1fyY6LPCFHtgE8-NdXM0t53C8FUbtgY90/view?usp=sharing)

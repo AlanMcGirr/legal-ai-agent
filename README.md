@@ -24,11 +24,12 @@ Search   Search    Analysis       Analysis
    ↓       ↓            ↓             ↓
    └───┬───┴────────────┴─────────────┘
        ↓
-  DeepEval Metrics
+       
+DeepEval Metrics
   (Tool Correctness | Task Completion | Answer Relevancy)
        ↓
 Final Performance Score
-# Final Performance Score
+
 ## Key Features
 🔍 RAG with Past Case Information
 

@@ -18,10 +18,6 @@ Architecture Overview
 <img width="649" height="342" alt="image" src="https://github.com/user-attachments/assets/8ea9e343-e0d1-47b0-ac05-66798876ef3b" />
 
        
-DeepEval Metrics
-  (Tool Correctness | Task Completion | Answer Relevancy)
-       ↓
-Final Performance Score
 
 ## Key Features
 🔍 RAG with Past Case Information
